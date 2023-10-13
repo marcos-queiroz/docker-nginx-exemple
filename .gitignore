@@ -1,0 +1,9 @@
+/.env
+/.vscode
+/config/initdb/*
+/config/ssl/*
+/data/*
+/logs/*
+/www/**
+.DS_Store
+/buildtest
