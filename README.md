@@ -41,6 +41,12 @@ Para editar o arquivo 'hosts' sera necessário permissões de administrador e a 
 
 ## Testes
 
+Copie o arquivo `sample.env` com o comando:
+
+```bash
+  cp sample.env .env
+```
+
 Suba os containers com o comando:
 
 ```bash
